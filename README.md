@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**livedme/livedme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ASP.NET Core | Web API | Blazor | Umbraco CMS
 
-Here are some ideas to get you started:
+I am Full Stack .NET Developer with more than 14 years of experience in both frontend and backend development in various business domain. Usually, I am working now on ASP.NET Core, Blazor and Umbraco CMS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+𝗠𝘆 𝘀𝗸𝗶𝗹𝗹𝘀 𝗮𝗻𝗱 𝗲𝘅𝗽𝗲𝗿𝘁𝗶𝘀𝗲:
+► ASP.NET Web Application Development - 14+ Years’ Experience
+► ASP.NET MVC, ASP.NET Core, Web API, RESTful APIs, C#. LINQ, ADO.NET, Entity Framework
+► Blazor Web Apps using MubBlazor and Syncfusion control
+► CMS: DotNetNuke (DNN), Umbraco
+► JavaScript, JQuery, Ajax, Json, XML, CSS3, HTML5, Bootstrap, Responsive Design, Telerik Kendo UI, Telerik Rad Control
+► ReactJS, NextJS
+► Database: SQL Server, MongoDB
+► Azure App Service, Azure SQL Database, Azure Email Communication Service,
+► APIs (Facebook APIs, Google API etc)
+► Source Control: SVN, GIT, TFS

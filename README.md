@@ -18,6 +18,8 @@ I am Full Stack .NET Developer with more than 14 years of experience in both fro
 
 ► ReactJS, NextJS
 
+► Payment: Authorize.net, Stripe, Frisbii
+
 ► Database: SQL Server, MongoDB
 
 ► Azure App Service, Azure SQL Database, Azure Email Communication Service,

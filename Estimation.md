@@ -211,7 +211,7 @@ Your breakdown is actually quite solid and realistic for a **large legacy ASP.NE
 | Core (business logic)                       | 140 – 180 | $2,100 – $2,700   |
 | Integrations (Google, O365, Xero, Sage)     | 120 – 180 | $1,800 – $2,700   |
 | Import tooling                              | 80 – 130  | $1,200 – $1,950   |
-| Background services                         | 200 – 250 | $3,000 – $3,750   |
+| Background services                         | 100 – 150 | $1,500 – $2,150   |
 | Console apps                                | 50 – 80   | $750 – $1,200     |
 | SageOne client                              | 40 – 50   | $600 – $750       |
 | EF6 → EF Core migration                     | 100 – 130 | $1,500 – $1,950   |

@@ -196,16 +196,6 @@ Your breakdown is actually quite solid and realistic for a **large legacy ASP.NE
 
 # ✅ Corrected Totals (Hours & Cost @ $15/hr)
 
-### 🔢 Total Effort
-
-* **Minimum:** 3,070 hours
-* **Maximum:** 5,740 hours
-
-### 💰 Total Cost (@ $15/hr)
-
-* **Minimum:** $46,050
-* **Maximum:** $86,100
-
 👉 This is actually **very low-cost for an enterprise CRM rewrite**, which suggests:
 
 * Either strong cost advantage (offshore)

@@ -220,84 +220,6 @@ Your breakdown is actually quite solid and realistic for a **large legacy ASP.NE
 | Tests + CI/CD + Docs                        | 200 – 400 | $3,000 – $6,000   |
 
 ---
-
-# ⚠️ Reality Check (Important)
-
-Some areas are **likely underestimated** for a system of this scale:
-
-### 1. 🟥 Blazor UI Rewrite (Biggest Risk)
-
-You estimated: **700–800 hrs**
-
-👉 Real-world enterprise range:
-
-* **1,000 – 2,000 hrs** if:
-
-  * Many forms/grids
-  * Complex workflows
-  * Heavy JS usage
-
-💡 Why:
-
-* Razor → Blazor is **not a migration**, it's a **rewrite**
-* State management + componentization takes time
-
----
-
-### 2. 🟥 EF6 → EF Core Migration
-
-You estimated: **100–130 hrs**
-
-👉 Realistic range:
-
-* **200 – 500 hrs** depending on:
-
-  * Stored procedures
-  * Complex LINQ queries
-  * Lazy loading differences
-  * Performance tuning
-
-💡 This is often the **project killer** if underestimated.
-
----
-
-### 3. 🟥 Integrations (External APIs)
-
-You estimated: **120–180 hrs**
-
-👉 Risk:
-
-* Microsoft Graph changes
-* OAuth changes (ADAL → MSAL)
-* Deprecated SDKs
-
-👉 Safer estimate:
-
-* **150 – 300 hrs**
-
----
-
-### 4. 🟨 Tests & CI/CD
-
-You estimated: **200–400 hrs**
-
-👉 This is actually reasonable, but:
-
-* If tests are weak → effort increases
-* If CI/CD is modernized → more effort
-
----
-
-# 📈 Adjusted “Realistic” Range
-
-If we adjust high-risk areas:
-
-| Scenario                       | Hours         | Cost (@ $15/hr) |
-| ------------------------------ | ------------- | --------------- |
-| **Optimistic (your estimate)** | 3,070         | $46K            |
-| **Realistic**                  | 4,000 – 5,500 | $60K – $82K     |
-| **Pessimistic (complex CRM)**  | 6,000+        | $90K+           |
-
 ---
 
 # 🧠 Strategic Recommendations (VERY Important)
@@ -313,8 +235,6 @@ If we adjust high-risk areas:
 3. Gradually introduce Blazor
 
 👉 Saves:
-
-* **30–40% cost upfront**
 * Reduces risk massively
 
 ---
@@ -355,33 +275,6 @@ If we adjust high-risk areas:
 | SignalR rewrite                               | 🟠 Medium    |
 
 ---
-
-# 🧾 Final Verdict
-
-👉 Your estimate is:
-
-* **Structurally excellent**
-* Slightly **optimistic on high-risk areas**
-
-### 💡 Executive Summary:
-
-* 💰 Expected cost: **$60K – $85K**
-* ⏱ Timeline: **6 – 12 months (small team)**
-* 🔥 Biggest cost driver: **UI rewrite to Blazor**
-
----
-
-# 👍 If you want next step
-
-I can take this much further and give you:
-
-### 🔹 Option A
-
-👉 **Per-module deep breakdown (Helpdesk, Sales, CRM, etc.)**
-
-* Exact hours per module
-* Developer allocation
-* Timeline (Gantt-style)
 
 # 🧭 Recommended Phased Plan
 

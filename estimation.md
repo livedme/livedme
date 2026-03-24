@@ -217,9 +217,7 @@ Your breakdown is actually quite solid and realistic for a **large legacy ASP.NE
 | EF6 → EF Core migration                     | 100 – 130 | $1,500 – $1,950   |
 | Frontend JS/libs                            | 130 – 150 | $1,950 – $2,250   |
 | Misc (logging, middleware, perf)            | 50 – 70   | $750 – $1,050     |
-| Tests + CI/CD + Docs                        | 200 – 400 | $3,000 – $6,000   |
 
----
 ---
 
 # 🧠 Strategic Recommendations (VERY Important)
